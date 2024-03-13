@@ -25,7 +25,7 @@ I am a Azure Support Escalation Engineer at Microsoft <img src="https://media.gi
 
 - :seedling: Exploring Cyber Security. Blue team, Red team, Forensics, Analyst, enjoy being active in the community.
 
-- :zap: In my free time, I research cyber security trends and build real world labs. When I'm not playing Balders Gate 3 or CS:GO.
+- :zap: In my free time, I research cyber security trends and build real world labs.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EricJarvinen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-jarvinen)
 ---
